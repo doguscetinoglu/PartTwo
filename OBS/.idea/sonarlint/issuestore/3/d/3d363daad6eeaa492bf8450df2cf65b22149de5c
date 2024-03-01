@@ -1,0 +1,17 @@
+
+r	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ç¾Ê©üÿÿÿÿ8øêÓáß1
+r	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ç¾Ê©üÿÿÿÿ8øêÓáß1
+Š
+java:S4165
+"hRemove this useless assignment; "CourseCode" already holds the assigned value along all execution paths.(ØÑŒøıÿÿÿÿ8‚ëÓáß1
+q	java:S116"URename this field "CourseName" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(™ì§8„ëÓáß1
+q	java:S116"URename this field "CourseCode" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ã¤Øƒ8„ëÓáß1
+q	java:S116"VRename this field "CourseClass" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ì¼é8„ëÓáß1
+M
+java:S1172"+Remove this unused method parameter "code".(ç¾Ê©üÿÿÿÿ8ˆëÓáß1
+L	java:S106"+Replace this use of System.out by a logger.(·ìĞæûÿÿÿÿ8‹ëÓáß1
+G	java:S106"+Replace this use of System.out by a logger.(ÜÈ³ª8ŒëÓáß1
+F	java:S106"+Replace this use of System.out by a logger.(Ãçú8ëÓáß1
+Q
+java:S1656
+"/Remove or correct this useless self-assignment.(ØÑŒøıÿÿÿÿ8ëÓáß1

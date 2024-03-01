@@ -1,0 +1,16 @@
+
+r	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(…­―ώÿÿÿÿ8Μ£Òαί1
+_
+java:S21845"BCast one of the operands of this division operation to a "double".(¤νε―8Ο£Òαί1
+]
+java:S21845"@Cast one of the operands of this integer division to a "double".(¤νε―8Ο£Òαί1
+w	java:S116"VRename this field "Studentname" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ιΙ¬ΐύÿÿÿÿ8ο£Òαί1
+L	java:S106%"+Replace this use of System.out by a logger.(κΣζψωÿÿÿÿ8χ£Òαί1
+G	java:S106*"+Replace this use of System.out by a logger.(½λ„8ϊ£Òαί1
+G	java:S106,"+Replace this use of System.out by a logger.(£•¦΄8ϋ£Òαί1
+G	java:S106/"+Replace this use of System.out by a logger.(ΤΏ­8ό£Òαί1
+G	java:S106="+Replace this use of System.out by a logger.(¶ΧƒΡ8ÿ£Òαί1
+L	java:S106>"+Replace this use of System.out by a logger.(°Λχξϋÿÿÿÿ8€¤Òαί1
+G	java:S106?"+Replace this use of System.out by a logger.(ε»ά8€¤Òαί1
+G	java:S106@"+Replace this use of System.out by a logger.(°³—8€¤Òαί1
+L	java:S106C"+Replace this use of System.out by a logger.(π³ζΒϋÿÿÿÿ8¤Òαί1

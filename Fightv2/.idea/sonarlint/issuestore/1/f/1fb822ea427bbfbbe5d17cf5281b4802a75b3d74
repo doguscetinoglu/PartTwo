@@ -1,0 +1,57 @@
+
+l
+java:S1192O"JDefine a constant instead of duplicating this literal " Damage: " 4 times.(ì³ÕĞşÿÿÿÿ8½¹Ââß1
+m
+java:S1192\"PDefine a constant instead of duplicating this literal "NEW CHAMPIIONN " 4 times.(í‹ÂÓ8¾¹Ââß1
+z	java:S135"YReduce the total number of break and continue statements in this loop to use at most one.(˜ïˆÿÿÿÿÿ8¿¹Ââß1
+z	java:S135H"YReduce the total number of break and continue statements in this loop to use at most one.(˜ïˆÿÿÿÿÿ8¿¹Ââß1
+e
+java:S2583e"CChange this condition so that it does not always evaluate to "true"(¬«÷ ıÿÿÿÿ8Ø¼Ââß1
+f
+java:S2583‹"CChange this condition so that it does not always evaluate to "true"(¬«÷ ıÿÿÿÿ8Ü¼Ââß1
+y
+java:S1450"\Remove the "fighterOneHit" field and declare it as a local variable in the relevant methods.(ÑÔš8ã¼Ââß1
+~
+java:S1450"\Remove the "fighterTwoHit" field and declare it as a local variable in the relevant methods.(€ï¸¦ÿÿÿÿÿ8ä¼Ââß1
+G	java:S106"+Replace this use of System.out by a logger.(êç‹±8ğ¼Ââß1
+8
+java:S3626,"Remove this redundant jump.(ÉŠ©ƒ8ñ¼Ââß1
+:
+java:S2119"Save and re-use this "Random".(¼İÅf8ò¼Ââß1
+G	java:S106"+Replace this use of System.out by a logger.(åŞäÿ8ô¼Ââß1
+G	java:S106!"+Replace this use of System.out by a logger.(šëÏ­8ø¼Ââß1
+G	java:S106""+Replace this use of System.out by a logger.(çËêŞ8ú¼Ââß1
+L	java:S106&"+Replace this use of System.out by a logger.(‹ÇĞÿøÿÿÿÿ8û¼Ââß1
+L	java:S106'"+Replace this use of System.out by a logger.(–¯‹ ùÿÿÿÿ8ü¼Ââß1
+G	java:S106+"+Replace this use of System.out by a logger.(ª×îĞ8ü¼Ââß1
+G	java:S1064"+Replace this use of System.out by a logger.(ŞªÊ°8ş¼Ââß1
+G	java:S1065"+Replace this use of System.out by a logger.(‘Ëäù8ÿ¼Ââß1
+G	java:S1066"+Replace this use of System.out by a logger.(“âÂô8ÿ¼Ââß1
+L	java:S1069"+Replace this use of System.out by a logger.(¦›úöûÿÿÿÿ8€½Ââß1
+G	java:S106:"+Replace this use of System.out by a logger.(ÇîÍñ8‚½Ââß1
+G	java:S106;"+Replace this use of System.out by a logger.(¢Š»Œ8ƒ½Ââß1
+o
+java:S3776?"RRefactor this method to reduce its Cognitive Complexity from 21 to the 15 allowed.(ø¥¬²8…½Ââß1
+8
+java:S3626~"Remove this redundant jump.(ÉŠ©ƒ8…½Ââß1
+9
+java:S3626‘"Remove this redundant jump.(ÉŠ©ƒ8…½Ââß1
+:
+java:S2119@"Save and re-use this "Random".(¼İÅf8†½Ââß1
+G	java:S106A"+Replace this use of System.out by a logger.(Ôú‘Â8†½Ââß1
+F	java:S106C"+Replace this use of System.out by a logger.(“ÂÛ8‡½Ââß1
+L	java:S106D"+Replace this use of System.out by a logger.(Ü¾¦ˆúÿÿÿÿ8‡½Ââß1
+G	java:S106J"+Replace this use of System.out by a logger.(×ÃÙœ8‰½Ââß1
+L	java:S106O"+Replace this use of System.out by a logger.(ì³ÕĞşÿÿÿÿ8‰½Ââß1
+L	java:S106T"+Replace this use of System.out by a logger.(Î–ü¢ùÿÿÿÿ8‹½Ââß1
+G	java:S106\"+Replace this use of System.out by a logger.(í‹ÂÓ8½Ââß1
+L	java:S106a"+Replace this use of System.out by a logger.(Ò¾ê˜ûÿÿÿÿ8‘½Ââß1
+L	java:S106f"+Replace this use of System.out by a logger.(‹»¸¤ıÿÿÿÿ8’½Ââß1
+G	java:S106o"+Replace this use of System.out by a logger.(Î´8“½Ââß1
+G	java:S106u"+Replace this use of System.out by a logger.(‡ğñÚ8”½Ââß1
+G	java:S106z"+Replace this use of System.out by a logger.(½ÇŞí8•½Ââß1
+H	java:S106‚"+Replace this use of System.out by a logger.(í‹ÂÓ8™½Ââß1
+M	java:S106‡"+Replace this use of System.out by a logger.(Ò¾ê˜ûÿÿÿÿ8š½Ââß1
+M	java:S106Œ"+Replace this use of System.out by a logger.(‹»¸¤ıÿÿÿÿ8›½Ââß1
+P
+java:S1128".Remove this unused import 'java.util.Scanner'.(ÒÜÅ¸úÿÿÿÿ8œ½Ââß1
