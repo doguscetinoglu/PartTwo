@@ -1,0 +1,17 @@
+
+z	java:S135"YReduce the total number of break and continue statements in this loop to use at most one.(áõ‰ıÿÿÿÿ8’ÚÌÙà1
+o
+java:S3776"RRefactor this method to reduce its Cognitive Complexity from 18 to the 15 allowed.(Çµí‘8İÛÌÙà1
+]	java:S125	"<This block of commented-out lines of code should be removed.(¿ëŸûÿÿÿÿ8éÛÌÙà1
+L	java:S106"+Replace this use of System.out by a logger.(·ùßóıÿÿÿÿ8óÛÌÙà1
+G	java:S106"+Replace this use of System.out by a logger.(ô€ŒÉ8õÛÌÙà1
+L	java:S106"+Replace this use of System.out by a logger.(Ó„ÿôşÿÿÿÿ8øÛÌÙà1
+G	java:S106"+Replace this use of System.out by a logger.(ûäó„8øÛÌÙà1
+L	java:S106"+Replace this use of System.out by a logger.(•“ãÑüÿÿÿÿ8ùÛÌÙà1
+G	java:S106$"+Replace this use of System.out by a logger.(¼¯8úÛÌÙà1
+G	java:S106("+Replace this use of System.out by a logger.(Ú½àÓ8úÛÌÙà1
+F	java:S106*"+Replace this use of System.out by a logger.(÷¸½A8ûÛÌÙà1
+L	java:S106,"+Replace this use of System.out by a logger.(È¼Œ„ıÿÿÿÿ8ûÛÌÙà1
+F	java:S1060"+Replace this use of System.out by a logger.(‰÷ƒ"8üÛÌÙà1
+L	java:S1065"+Replace this use of System.out by a logger.(²ü¤Şûÿÿÿÿ8ıÛÌÙà1
+L	java:S1067"+Replace this use of System.out by a logger.(¤®Åæøÿÿÿÿ8ıÛÌÙà1
