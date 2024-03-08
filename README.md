@@ -61,4 +61,4 @@ This repository serves as a comprehensive record of my learning journey, designe
 
 All projects and practice exercises are freely available for use. You are welcome to explore, modify, and share them as you wish. If you have any questions, please don't hesitate to contact me.
 
-[![Doğuş Çetinoğlu'i](/readmeAssets/logo.png "D & C Linkedin Logo'i")](https://www.linkedin.com/in/doguscetinoglu/)
+[![Doğuş Çetinoğlu'i](/readmeAssets/logo2.png "D & C Linkedin Logo'i")](https://www.linkedin.com/in/doguscetinoglu/)
